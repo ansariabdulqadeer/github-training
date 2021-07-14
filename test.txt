@@ -1,4 +1,8 @@
 here i am write some code
 
+<<<<<<< HEAD
 
 changes.....
+=======
+changes......
+>>>>>>> 2ae7d37d3b13777ffe3be8c3ac52292cf78dac44
